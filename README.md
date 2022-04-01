@@ -1,6 +1,8 @@
 # FlatTN
 This repository contains code accompanying the paper **"An End-to-End Chinese Text Normalization Model based on Rule-Guided Flat-Lattice Transformer"** published on ICASSP 2022.
 
+##  [Paper](https://arxiv.org/abs/2203.16954)
+
 # Requirement
 
 ```
