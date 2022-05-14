@@ -74,8 +74,6 @@ python flat_main.py --dataset databaker
 
 Our proposed rule base are saved in a python file:
 `V1/add_rule.py`
-#Cite this paper
-Dai W, Song C, Li X, et al. An End-to-End Chinese Text Normalization Model Based on Rule-Guided Flat-Lattice Transformer[C]//ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 7122-7126.
 
 # Acknowledgement
 
